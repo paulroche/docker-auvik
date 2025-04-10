@@ -1,3 +1,7 @@
+# April 10 2025
+
+Auvik is aware of this repo, this will no longer function to get billable devices for a promo.  Leaving the repo up for folks to experiment with.
+
 # Auvik Collector
 
 Simple repo for spinning up auvik collector and handful of dummy managed devices.
